@@ -23,7 +23,7 @@ The code will be updated at a later date.
 ## Requirements
 - Alfred version 5.5 or later
 - Python 3
-- nRouter API Key
+- OpenRouter API Key
 
 ## Installation
 Download the Alfred workflow from the release page and run it.
